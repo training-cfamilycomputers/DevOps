@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<project name="Hello World Project" default="info"> 
+	<target name="info">
+	   <echo>Welcome to cfamilycomputers..!</echo> 
+	   <echo>Welcome to ant world..!</echo> 
+	</target>
+</project>
