@@ -1,0 +1,82 @@
+DevOps for EveryOne:-
+===================
+Understand Java applications Structure:-
+--------------------------------------
+1. Stadalone Application:
+syntax:
+root-directory
+|-- src
+     |-- main
+	      |-- java
+		        |-- packages
+				      |-- .java programs -- service or business logic classes
+	 |-- test             
+	      |-- java 
+		        |-- packages 
+				      |-- .java programs -- unit testcase classes
+
+E.g:-
+firstapp
+ |-- src 
+      |-- main 
+	       |-- java
+		         |-- com.cfamilycomputers
+				      |-- Cart.java -- adding items to cart and removing items 
+		   |--test 
+		        |-- com.cfamilycomputers
+				      |-- CartTest.java -- Junit, Mockito etc..
+					       They will write logic to test Cart class functionality
+
+Webapplication structure
+Enterprise applications structure
+portlets applications structure
+
+Build Tools:
+===========
+Ant, Maven, Gradle(Latest), etc..
+
+--> It compiles java classes 
+--> If thirdparty jars are requires, it will download and makes available application 
+--> excutes unit test cases and 
+--> prepares packaging.
+
+Build Tool:
+Ant Build Tool 
+Maven or Gradle 
+
+One of project
+ ant 
+ maven
+ gradle
+
+Note:-
+--> Only Core Java is installable software(.exe)
+--> Most of Java based softwares are configurable
+
+Java 
+
+Ant Installation:-
+================
+download Ant:-
+------------
+http://mirrors.estointernet.in/apache/
+http://mirrors.estointernet.in/apache/ant/binaries/
+
+set ANT_HOME and PATH Variable
+
+Thanks,
+Akkem Sreenivasulu,
+Cfamily Computers Training Centre
+eMail: training@cfamilycomputers.com
+ph: 9133161144(whatsapp)
+
+websites:
+ www.cfamilycomputers.com -- self-paced training portal
+ www.cfamilycomputers.in -- training portal
+ www.cfamilycomputers.guru -- materials portal 
+ www.cfamilycomputers.info  -- software’s information portal 
+www.cfamilycomputers.org – groups, discussions, FAQ
+ 
+YouTube: www.youtube.com/cfamilycomputers
+GitHub: https://github.com/training-cfamilycomputers
+Facebook: www.facebook.com/cfamilycomputers

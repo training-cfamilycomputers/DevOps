@@ -1,0 +1,55 @@
+DevOps for EveryOne:-
+===================
+Java Project:
+------------
+1. Devlopers writes set of classes
+2. Compiles classes
+3. Downloads required jar file and places into application class path 
+4. Create packaging(jar, War, Ear)
+   (jar -- java archieve, war -- web archieve, ear -- enterprise archieve)
+5. Deploying jar or war or ear into webserver or application server
+
+Linux
+Server:
+Webserver -- Tomcat
+
+Build Tool:
+Ant -- Advantage of Ant, dis-advantages, while stil people
+Maven 
+
+Repository Tools:
+ SVN Introduction,dis-advantages of svn 
+ Git, Githube
+ 
+Jenkins 
+  how to automate repository deploy applications in server  
+
+
+In Java,
+Tomcat -- Webserver/Application Server
+WebLogic -- Application Server
+JBoss -- Application Server
+WebSphae -- Application Server  
+   
+Assume:-
+--> user using this application -- given some error  
+
+Build Tool:-
+
+
+Thanks,
+Akkem Sreenivasulu,
+Cfamily Computers Training Centre
+eMail: training@cfamilycomputers.com
+ph: 9133161144(whatsapp)
+
+websites:
+ www.cfamilycomputers.com -- self-paced training portal
+ www.cfamilycomputers.in -- training portal
+ www.cfamilycomputers.guru -- materials portal 
+ www.cfamilycomputers.info  -- software’s information portal 
+www.cfamilycomputers.org – groups, discussions, FAQ
+ 
+YouTube: www.youtube.com/cfamilycomputers
+GitHub: https://github.com/training-cfamilycomputers
+Facebook: www.facebook.com/cfamilycomputers
